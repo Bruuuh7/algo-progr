@@ -1,7 +1,6 @@
 #include <iostream>
 
 /*
-
 === A7 =======================================
 Create program both in C++, and Python. Input from keyboard all given values and print on screen all output.
 Program should output error message for incorrect input data.
